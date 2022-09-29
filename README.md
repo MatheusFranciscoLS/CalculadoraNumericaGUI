@@ -1,3 +1,3 @@
 # CalculadoraNumericaGUI
 
-Fiz uma simulação de calculadora atraves do Palette.
+Aplicação de uma calculadora com operações basicas atraves do Palette.
